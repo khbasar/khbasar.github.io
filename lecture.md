@@ -1,17 +1,17 @@
-# Fisika Dasar (TPB)
+### Fisika Dasar (TPB)
 Konten ...
 
-# Fisika Matematik (S1 Fisika)
+### Fisika Matematik (S1 Fisika)
 Konten ...
 
-# Aplikasi Nuklir (S1 Fisika)
+### Aplikasi Nuklir (S1 Fisika)
 Konten ...
 
-# Fisika Matematik (S2 Pengajaran Fisika)
+### Fisika Matematik (S2 Pengajaran Fisika)
 Konten ...
 
-# Metodologi Penelitian (S2 Fisika)
+### Metodologi Penelitian (S2 Fisika)
 Konten ...
 
-# Analisis Teknik Terapan (S2 IRN)
+### Analisis Teknik Terapan (S2 IRN)
 Konten ...
