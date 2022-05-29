@@ -1,12 +1,12 @@
-# My Personal Website
+# Personal Website
 
-You can use the [editor on GitHub](https://github.com/khbasar/khbasar.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Editor yang dapat digunakan langsung dengan mengakses [editor on GitHub](https://github.com/khbasar/khbasar.github.io/edit/main/README.md) untuk mengatur konten website. File ini adalah berupa file markdown. Oleh sebab itu penulisannya menggunakan format .md
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Setiap melakukan perubahan pada repository (misalnya pada konten di file markdown), harus diikuti dengan menekan tombol _commit changes_. Dengan demikian GitHub Pages akan menjalankan [Jekyll](https://jekyllrb.com/) untuk memperbarui konten di website yang kita buat.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown merupakan aturan penulisan yang ringan dan sederhana untuk menulis di web. Ada beberapa konvensi dan aturan yang perlu diperhatikan dalam menggunakan sintaks Markdown: 
 
 ```markdown
 Syntax highlighted code block
