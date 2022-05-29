@@ -2,8 +2,6 @@ theme: jekyll-theme-minimal
 title: my@github Webpage
 description: Personal Webpage Khairul Basar
 layout: page
-title: "About"
 permalink: /about/
 layout: page
-title: "Arsip Kuliah"
 permalink: /lecture/
